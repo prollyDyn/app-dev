@@ -1,10 +1,7 @@
-# app-dev
-My first repository
-
 # **Stranger Things**
 ## *Netflix Series*
 
-![Stranger Things Cast](letsgo.jpg)
+![Stranger Things Cast](C:\Users\jacob\Downloads\letsgo.jpg)
 
 ### Things I love about **Stranger Things**:
 
