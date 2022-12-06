@@ -1,5 +1,5 @@
 # **Stranger Things**
-## *Netflix Series*
+### *Netflix Series*
 
 ![Stranger Things Cast](C:\Users\jacob\Desktop\DYN\strangertingz.jpeg)
 
@@ -9,5 +9,6 @@
 
 - Great Plots
 - Interesting Story
-- Robin and Steve
-- **Dustin**
+- The Cinematography
+- The Characters 
+- *The Holy Trinity*: **Robin, Steve and Dustin**
